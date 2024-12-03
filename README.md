@@ -1,3 +1,4 @@
+this is just a work from someone who has been coding java for about 4 months so if any one has any tip or feedback please don't hesitate(also english not my firsy language)
 # costumer-management-java
 A Java program for managing and sorting customer data
 # Customer Management Program
